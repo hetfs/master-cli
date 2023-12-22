@@ -296,5 +296,6 @@ gh pr create -t "Feature: New API Endpoint" -b "This pull request adds a new API
    - Git can be used in any command-line environment or integrated with GUIs.
    - Git Bash is specifically designed for the Windows operating system to provide a Unix-like command-line interface.
 
-In summary, Git is the version control system, while Git Bash is a terminal emulator that provides a Bash-like environment on Windows with Git commands integrated. Git Bash is often used by Windows users who prefer a Unix-like command-line interface for working with Git.
+> [!NOTE]
+> Git is the version control system, while Git Bash is a terminal emulator that provides a Bash-like environment on Windows with Git commands integrated. Git Bash is often used by Windows users who prefer a Unix-like command-line interface for working with Git.
 Understanding and using the CLI in a GitHub repository empowers developers to efficiently manage their projects, collaborate with others, and automate various tasks in the software development lifecycle.
