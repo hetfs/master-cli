@@ -1,4 +1,4 @@
-#### Master CLI
+# Master CLI
 
 Welcome to Master CLI, your comprehensive guide to mastering Command-Line Interfaces (CLIs) across different operating systems.
 
