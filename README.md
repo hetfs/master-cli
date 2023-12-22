@@ -1,6 +1,6 @@
 # Master CLI
-
-Welcome to Master CLI, your comprehensive guide to mastering Command-Line Interfaces (CLIs) across different operating systems.
+## Win-Mac-Linux ...
+Welcome to Command-Line Mastery, a comprehensive GitHub repository designed to empower you with in-depth knowledge of the command-line interfaces (CLI) for Windows, Mac, and Linux operating systems. This repository is your one-stop resource for mastering the command-line environments of all major platforms.
 
 ### Features
 
