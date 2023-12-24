@@ -116,7 +116,7 @@ Would you be ready to embark on your journey to command-line mastery? Follow the
   
 
 **Explore the Wiki:**
-Dive into our [Wiki](wiki-link) for comprehensive guides, tutorials, and resources.
+Dive into our [Wiki](https://github.com/hetfs/master-cli/wiki/Master-CLI-Wiki) for comprehensive guides, tutorials, and resources.
 
 **Join the Community:**
 Engage with other CLI enthusiasts on our [Discussions](discussions-link) board. Share your experiences and learn from others.
