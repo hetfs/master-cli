@@ -41,7 +41,7 @@ Simplify your workflow with these versatile and cross-platform Command Line Inte
    - Git Bash, a terminal emulator for Windows, delivers the Git command line experience with a Bash emulation environment.
 
 8. **Python Command Line:**
-   - Python offers a versatile command-line interface, ensuring a consistent experience across multiple platforms—ideal for scripting and automation.
+   - Python offers a versatile command-line interface, ensuring a consistent experience across multiple platforms ideal for scripting and automation.
 
 9. **Node.js Command Line:**
    - Node.js, with its Node Package Manager (npm) and command-line interface, facilitates cross-platform JavaScript and Node.js development.
