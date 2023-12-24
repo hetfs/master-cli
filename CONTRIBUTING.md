@@ -10,7 +10,7 @@ If you find a bug, please open an issue on our [Issue Tracker](link-to-issues) a
 
 ### 🌟 New Feature or Enhancement
 
-If you have a new feature or enhancement in mind, feel free to discuss it on our [Discussions](link-to-discussions) board. We value community feedback and want to ensure that new features align with the project's goals.
+If you have a new feature or enhancement in mind, feel free to discuss it on our [Discussions](https://github.com/hetfs/master-cli/discussions) board. We value community feedback and want to ensure that new features align with the project's goals.
 
 ### 📝 Documentation Improvements
 
