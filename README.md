@@ -125,13 +125,13 @@ Engage with other CLI enthusiasts on our [Discussions](discussions-link) board. 
 Contribute to the project by sharing your tips, tricks, and additional resources. See our [Contribution Guidelines](contribution-link) for details.
 
 **License:**
-Review the [MIT License](license-link) under which this project is distributed.
+Review the [MIT License](LICENSE.md) under which this project is distributed.
 
 Now, you're all set to become a CLI master!
 
 ## License
 
-This project is licensed under the [MIT License](license-link) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
