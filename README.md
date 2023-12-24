@@ -1,6 +1,4 @@
 # Master CLI
-## Win-Mac-Linux ...
-
 Welcome to Master CLI, the ultimate guide by HETFS LTD to empower you with the essential skills of the Command Line Interface (CLI).
 
 ## Description
@@ -16,6 +14,48 @@ They are designed to empower you with in-depth knowledge of the command-line int
 - **Interactive Exercises:** Hands-on exercises to practice and improve your CLI skills.
 - **Contributor-Friendly:** Contribute your expertise to enrich the Master CLI experience for everyone.
 - **Community-Driven:** Join a community of CLI enthusiasts and learners.
+
+## Cross-Platform Command Line Interfaces (CLIs)
+
+Simplify your workflow with these versatile and cross-platform Command Line Interfaces (CLIs) that seamlessly operate across various operating systems:
+
+1. **Bash (Bourne Again SHell):**
+   - The ubiquitous Bash shell is a go-to for Unix-like systems (Linux, macOS), and you can harness its power on Windows through tools like Git Bash or Windows Subsystem for Linux (WSL).
+
+2. **PowerShell:**
+   - Developed by Microsoft, PowerShell is a robust task automation framework available on Windows, Linux, and macOS, ensuring consistent functionality across platforms.
+
+3. **Zsh (Z Shell):**
+   - Zsh, an extended version of Bash, enhances your command-line experience with additional features. It's cross-platform, supporting Linux, macOS, and Windows.
+
+4. **Fish (Friendly Interactive Shell):**
+   - Fish, a user-friendly shell, adds flair with syntax highlighting and auto-suggestions. It's a cross-platform gem, working seamlessly on Linux, macOS, and Windows.
+
+5. **Windows Subsystem for Linux (WSL):**
+   - WSL lets you run a Linux distribution directly on Windows, providing access to a suite of Linux tools and utilities right on your Windows machine.
+
+6. **GNU Core Utilities:**
+   - Core Utilities, boasting essential commands like `ls`, `cp`, and `mv`, are cross-platform, available on various Unix-like operating systems.
+
+7. **Git Bash:**
+   - Git Bash, a terminal emulator for Windows, delivers the Git command line experience with a Bash emulation environment.
+
+8. **Python Command Line:**
+   - Python offers a versatile command-line interface, ensuring a consistent experience across multiple platforms—ideal for scripting and automation.
+
+9. **Node.js Command Line:**
+   - Node.js, with its Node Package Manager (npm) and command-line interface, facilitates cross-platform JavaScript and Node.js development.
+
+10. **AWS CLI (Amazon Web Services Command Line Interface):**
+    - The AWS CLI, a unified tool for managing AWS services, is at your fingertips on Windows, macOS, and Linux.
+
+11. **Google Cloud SDK:**
+    - The Google Cloud SDK equips you with tools for Google Cloud Platform services, offering a consistent experience on Windows, macOS, and Linux.
+
+12. **Azure CLI:**
+    - The Azure Command-Line Interface (CLI) simplifies managing Azure resources and is accessible on Windows, macOS, and Linux.
+
+Elevate your development, system administration, and DevOps tasks with these cross-platform tools—ensuring a seamless experience across diverse operating systems.
 
 ## Key Features of Learning Command Line
 
