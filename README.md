@@ -119,7 +119,7 @@ Would you be ready to embark on your journey to command-line mastery? Follow the
 Dive into our [Wiki](https://github.com/hetfs/master-cli/wiki/Master-CLI-Wiki) for comprehensive guides, tutorials, and resources.
 
 **Join the Community:**
-Engage with other CLI enthusiasts on our [Discussions](discussions-link) board. Share your experiences and learn from others.
+Engage with other CLI enthusiasts on our [Discussions](https://github.com/hetfs/master-cli/discussions) board. Share your experiences and learn from others.
 
 **Contribute:**
 Contribute to the project by sharing your tips, tricks, and additional resources. See our [Contribution Guidelines](CONTRIBUTING.md) for details.
