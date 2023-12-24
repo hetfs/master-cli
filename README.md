@@ -122,7 +122,7 @@ Dive into our [Wiki](wiki-link) for comprehensive guides, tutorials, and resourc
 Engage with other CLI enthusiasts on our [Discussions](discussions-link) board. Share your experiences and learn from others.
 
 **Contribute:**
-Contribute to the project by sharing your tips, tricks, and additional resources. See our [Contribution Guidelines](contribution-link) for details.
+Contribute to the project by sharing your tips, tricks, and additional resources. See our [Contribution Guidelines](CONTRIBUTING.md) for details.
 
 **License:**
 Review the [MIT License](LICENSE.md) under which this project is distributed.
