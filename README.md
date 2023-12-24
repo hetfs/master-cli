@@ -58,6 +58,4 @@ Discover the world of CLIs and become a Master CLI user!
 
 We believe in the power of collaboration. If you have insights, improvements, or new tutorials to share, check our [contribution guidelines](CONTRIBUTING.md) and be a part of the Master CLI community.
 
-#### License
-
-This project is licensed under the [MIT License](LICENSE).
+ 
