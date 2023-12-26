@@ -1,13 +1,7 @@
----
-runme:
-  id: 01HJKCYC5S3X2D7G6VNADGZMXS
-  version: v2.0
----
-
-# GitHub Master CLI Security Policies and Procedures <!-- omit in toc -->
+# Master CLI Security Policies and Procedures <!-- omit in toc -->
 
 This document outlines security procedures and general policies for the
-GitHub Master CLI project.
+Master CLI project.
 
 - [Reporting a Vulnerability](#reporting-a-vulnerability)
 - [Disclosure Policy](#disclosure-policy)
@@ -15,11 +9,11 @@ GitHub Master CLI project.
 ## Reporting a Vulnerability 
 
 The Master CLI team and community take all security vulnerabilities
-seriously. Thank you for improving the security of our open source 
-software. We appreciate your efforts and responsible disclosure and will
+seriously. Thank you for improving the security of our open-source 
+software. We appreciate your efforts and responsibility and will
 make every effort to acknowledge your contributions.
 
-Report security vulnerabilities by emailing the GitHub Readme Stats team at:
+Report security vulnerabilities by emailing the Master CLI team at:
 
 ```
 hetfs01@gmail.com
@@ -27,7 +21,8 @@ hetfs01@gmail.com
 
 The lead maintainer will acknowledge your email within 24 hours, and will
 send a more detailed response within 48 hours indicating the next steps in 
-handling your report. After the initial reply to your report, the security
+I'd appreciate it if you handled your report. 
+After the initial reply to your report, the security
 team will endeavor to keep you informed of the progress towards a fix and
 full announcement, and may ask for additional information or guidance.
 
@@ -36,7 +31,7 @@ team maintaining the module.
 
 ## Disclosure Policy
 
-When the security team receives a security bug report, they will assign it
+When the security team receives a security bug report, they assign it
 to a primary handler. This person will coordinate the fix and release
 process, involving the following steps:
 
