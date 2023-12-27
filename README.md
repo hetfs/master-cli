@@ -135,4 +135,22 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 
 ---
 
-**Master CLI** by [HETFS LTD](https://github.com/hetfs)
+ <div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://x.com/hetf01?t=YN55MZq3vfMZj8g-IJHpGw&s=08" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@mastercli" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://m.facebook.com/profile.php/?id=100090714730738&name=xhp_nt_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://t.me/+h941uu74P6I0NDY0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div
+
+---
+
+## *Master CLI* by [HETFS LTD](https://github.com/hetfs)
