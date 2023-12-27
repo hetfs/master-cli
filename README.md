@@ -153,4 +153,6 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 
 ---
 
-## *Master CLI* by [HETFS LTD](https://github.com/hetfs)
+## <a href="https://www.buymeacoffee.com/hetfs01f" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 165px !important;" ></a>   To support *Master CLI* Team [HETFS LTD](https://github.com/hetfs)
+
+---
